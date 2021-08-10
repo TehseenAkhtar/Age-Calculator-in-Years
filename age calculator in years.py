@@ -1,5 +1,4 @@
 from datetime import date
-import datetime
 import math
 
 # age calculator function
